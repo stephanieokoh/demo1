@@ -8,7 +8,7 @@ public class ScoreOfPlayers {
     public ScoreOfPlayers()
     {
         score=10;
-        name="Inzamam";
+        name="Stephanie";
     }
 
     public ScoreOfPlayers(int s,String a)

@@ -6,5 +6,6 @@ So, we use a 2D matrix for the board of the game and properly carried out the de
 There are many rules like we have a function named isKing_Attached or not. These functions help us in decision-making of other instructions.
 
 
-
 At the end of the program we have stored the data of the Player in the file and then read it from the file. 
+
+>>>>>>> lombok
