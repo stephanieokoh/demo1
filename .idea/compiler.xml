@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Chessgame" />
+        <module name="homework-project-stephanieokoh.git" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Chessgame" target="16" />
+      <module name="homework-project-stephanieokoh.git" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>
